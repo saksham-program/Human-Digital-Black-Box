@@ -1,0 +1,10 @@
+[
+  {
+    "id": "cbb1fc1c-e28f-4411-96bd-352e97bf3981",
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "pass123",
+    "emergencyContact": "+91 90000 00000",
+    "createdAt": "2026-01-16T12:21:36.149Z"
+  }
+]

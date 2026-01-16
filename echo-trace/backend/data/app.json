@@ -1,0 +1,52 @@
+{
+  "timeline": [
+    {
+      "id": "1ba9e900-1e31-40d9-9d00-01ff1368bfee",
+      "userId": "cbb1fc1c-e28f-4411-96bd-352e97bf3981",
+      "createdAt": "2026-01-16T12:21:36.169Z",
+      "type": "sos",
+      "title": "SOS Triggered",
+      "details": "Emergency protocol activated. Location: Mumbai Central, Maharashtra, India"
+    }
+  ],
+  "sos": [
+    {
+      "id": "8a3b9a04-ea47-466d-805c-1ab6f48273e6",
+      "userId": "cbb1fc1c-e28f-4411-96bd-352e97bf3981",
+      "createdAt": "2026-01-16T12:21:36.169Z",
+      "status": "Emergency Protocol Activated",
+      "location": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "label": "Mumbai Central, Maharashtra, India"
+      }
+    }
+  ],
+  "contacts": {
+    "cbb1fc1c-e28f-4411-96bd-352e97bf3981": [
+      {
+        "id": "36529c15-aee4-4b87-864b-f25e5dacaead",
+        "name": "Mom",
+        "phone": "+91 98765 43210",
+        "relationship": "Mother"
+      },
+      {
+        "id": "c94f73b9-f41f-4767-af52-65f62656f596",
+        "name": "Dad",
+        "phone": "+91 98765 43211",
+        "relationship": "Father"
+      }
+    ]
+  },
+  "privacy": {
+    "cbb1fc1c-e28f-4411-96bd-352e97bf3981": {
+      "healthSharing": true,
+      "locationSharing": true,
+      "bluetooth": true,
+      "locationServices": true,
+      "callAccess": true,
+      "smsAccess": true,
+      "blockchainSecurity": true
+    }
+  }
+}

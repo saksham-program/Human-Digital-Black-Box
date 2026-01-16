@@ -1,0 +1,19 @@
+{
+  "name": "echo-trace-backend",
+  "version": "1.0.0",
+  "description": "Echo Trace – Human Black Box (Demo) backend API",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
